@@ -24,12 +24,12 @@ pytz
 ffmpeg==1.4
 umongo==3.1.0
 speedtest-cli
-Flask==1.1.2
+Flask==3.0.0
 gunicorn
 fastapi
 uvicorn
 Jinja2==3.0.3
-werkzeug==2.0.2
+werkzeug==3.0.0
 itsdangerous==2.0.1
 ffprobe
 youtube-dl
